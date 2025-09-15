@@ -21,3 +21,7 @@ want to understand the practical ways to apply the concept.
 
 answer only yes if you are ready .
 ```
+
+
+## Mindblowing sub-prompt 
+1. ```Assume that i know nothing ? ```
