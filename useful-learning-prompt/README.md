@@ -67,3 +67,8 @@ Want the understanding of concepts so that I can build anything using those conc
 answer only yes if you are ready .
 
 ```
+
+---
+
+## self reflection 
+``` you know so much about me and tell me my blindspots ? ```
