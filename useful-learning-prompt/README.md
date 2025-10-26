@@ -39,6 +39,12 @@ answer only yes if you are ready .
 
 
 ```
+## Need extra thinking of model 
+    add a word at the end of prompt.
+    ```
+    ultrathink
+    ```
+
 
 ## Mindblowing sub-prompt
 
@@ -81,3 +87,4 @@ answer only yes if you are ready .
 ## self reflection
 
 `you know so much about me and tell me my blindspots ?`
+
