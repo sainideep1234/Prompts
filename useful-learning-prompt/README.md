@@ -90,3 +90,8 @@ answer only yes if you are ready .
 
 `you know so much about me and tell me my blindspots ?`
 
+### To find the best result 
+```
+Search across the internet , all the discussion platforms(reddit , quora etc ) worldwide , and all the public forums and tell me top resource 
+
+```
