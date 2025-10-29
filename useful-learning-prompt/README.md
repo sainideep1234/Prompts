@@ -94,4 +94,6 @@ answer only yes if you are ready .
 ```
 Search across the internet , all the discussion platforms(reddit , quora etc ) worldwide , and all the public forums and tell me top resource 
 
+
+take your time and asses , ultrathink on all the coments and only than give me the result ?
 ```
