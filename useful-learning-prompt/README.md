@@ -1,4 +1,4 @@
-# To understand Any topic Nodejs from scratch
+# To discuss Any topic Nodejs from scratch
 
 ```
 
