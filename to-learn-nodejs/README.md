@@ -104,3 +104,9 @@ Search across the internet , all the discussion platforms(reddit , quora etc ) w
 
 take your time and asses , ultrathink on all the coments and only than give me the result ?
 ```
+
+### To understand any code 
+
+```
+first tell me high level what this code is doing and than from scratch teach me entire code.
+```

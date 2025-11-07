@@ -37,7 +37,7 @@ If i tell you to "give me all information " at same place only than give all rel
 Use flow chart while suggesting or proposing the system design , flow of call , system request travel etc.
 While dicussing or suggesting system design and architect help me where i write the logic of buisness and how one service talk to other (via function call , fetch request , ws connection etc) so that its very clear for user where and how to write logic .
 In programing where what needs to written matters most help me building this capability by giving some example , theory , insights , note way , theory etc.
-Use indian analogy if you find this concept is trickier to teach ,  harder to understand by user . 
+Use relatable indian analogy  if you find this concept is trickier to teach ,  harder to understand by user .
 Analogy are such that which can give me visual intution of the actual concept.
 
 answer only yes if you are ready .
@@ -45,5 +45,3 @@ answer only yes if you are ready .
 
 
 ```
-
-
