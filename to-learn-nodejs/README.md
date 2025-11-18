@@ -104,7 +104,7 @@ answer only yes if you are ready .
 
 ```
 
-## Need extra thinking of model 
+## Change normal model to reasoning model 
 add a word at the end of prompt.
     `
     ultrathink
