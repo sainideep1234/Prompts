@@ -170,3 +170,7 @@ take your time and asses , ultrathink on all the coments and only than give me t
 ```
 first tell me high level what this code is doing and than from scratch teach me entire code.
 ```
+### To understand  syntax 
+```
+make me comfortable with synatx structure using simple examples .
+```
