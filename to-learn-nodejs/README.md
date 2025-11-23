@@ -174,3 +174,8 @@ first tell me high level what this code is doing and than from scratch teach me 
 ```
 make me comfortable with synatx structure using simple examples .
 ```
+### udnerstanding code and what si happening .
+
+```
+give me a complete steps and than code of how a a <specific concept> is deployed while teaching me what is happening in each steps and things needs to understand at step .
+```
