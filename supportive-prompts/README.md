@@ -3,6 +3,12 @@
 
 `you know so much about me and tell me my blindspots ?`
 
+### To understand any word meaning 
+
+```
+What gets called "term_name"
+```
+
 ### to understand any concepts
 
 ```
